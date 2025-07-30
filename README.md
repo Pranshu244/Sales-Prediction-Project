@@ -1,8 +1,11 @@
 # Sales-Prediction-Project
 Sales Prediction model using Linear Regression 
+This project predicts sales based on TV, Radio, and Newspaper budgets using Linear Regression. Trained on 200 samples from the Advertising dataset.
 ## Performancce
 1.MSE=3.17
+
 2.RMSE = 1.78
+
 3.R<sup>2</sup> = 0.9
 ## How to use?
 1. Open Linear Regression Model folder
