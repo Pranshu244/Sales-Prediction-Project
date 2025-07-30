@@ -16,8 +16,8 @@ This project predicts sales based on TV, Radio, and Newspaper budgets using Line
 4. Open 'Sales_Prediction_Website.ipynb' in google colab.
 5. Click 'Run all'.
 6. Copy IPv4 address from output of second last cell.
-7. in the cell you will get this in output'"Need to install the following packages:localtunnel@2.0.2 Ok to proceed? (y)'.
-8.Type 'y' and enter.
+7. In the cell you will get this in output'"Need to install the following packages:localtunnel@2.0.2 Ok to proceed? (y)'.
+8. Type 'y' and enter.
 9. You will get an URL in last cell output with a line 'your url is: __'.
 10. Click on that link.
 11. You will be redirected to an website.
